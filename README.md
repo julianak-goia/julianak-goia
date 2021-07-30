@@ -6,6 +6,7 @@
 - ❤️ 𝖫𝗈𝖿𝗂 𝖡𝖾𝖺𝗍𝗌 + 𝖢𝗈𝖽𝗂𝗇𝗀
 - 😄 Pronouns: she/her
 
+<br></br>
 
 <div>
   <a href="https://github.com/julianagoia">
