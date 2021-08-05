@@ -1,7 +1,7 @@
 <h1> Hi there! I´m Juliana Goia <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
 
-- 🔭 I’m currently studying to be a 𝖥ull Stack W𝖾𝖻 D𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋
+- 🔭 I’m currently studying to be a 𝖥ront-End D𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋
 - 🌱 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 React.JS
 - ❤️ 𝖫𝗈𝖿𝗂 𝖡𝖾𝖺𝗍𝗌 + Coffee + 𝖢𝗈𝖽𝗂𝗇𝗀
 - 😄 Pronouns: she/her
