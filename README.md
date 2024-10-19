@@ -10,7 +10,7 @@ I'm a Front-end developer based in Brazil specializing in web development
 
 <br/>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="50" height="50" /> **Toolbox**
+# ![Image caption](https://img.icons8.com/?size=50&id=gSiEJ3owrlAN&format=png&color=000000) **Toolbox**
 
 **Frontend Development:** 
 
@@ -40,11 +40,9 @@ I'm a Front-end developer based in Brazil specializing in web development
  ```Scrum```  ```Git```
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="50" height="50" /> **Contact**
+# ![Alt text](https://img.icons8.com/?size=50&id=WV326xpsBMyb&format=png&color=000000) **Contact**
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/juliana-goia/).
 
 <br/>
 
 <h4 align="left">𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴!</h4>
-
-
