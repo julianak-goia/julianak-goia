@@ -4,7 +4,7 @@
 
 I'm a Front-end developer based in Brazil specializing in web development
 
-- Visit my [LinkedIn](www.linkedin.com/in/juliana-goia) profile to discover more about me.
+- Visit my [LinkedIn](https://www.linkedin.com/in/juliana-goia/) profile to discover more about me.
 - On my [Behance](https://www.behance.net/julianagoia) profile, you can find a showcase of my design projects.
 - Check out my [Instagram](https://www.instagram.com/juucode/) where I share my learnings in design and 3D modeling.
 
@@ -41,7 +41,7 @@ I'm a Front-end developer based in Brazil specializing in web development
 
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="50" height="50" /> **Contact**
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/brunarcedro/).
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/juliana-goia/).
 
 <br/>
 
