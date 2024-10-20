@@ -4,6 +4,7 @@
 
 I'm a Front-end developer based in Brazil specializing in web development
 
+- My main stack is Javascript with Vue.js and PHP with Laravel.
 - Visit my [LinkedIn](https://www.linkedin.com/in/juliana-goia/) profile to discover more about me.
 - On my [Behance](https://www.behance.net/julianagoia) profile, you can find a showcase of my design projects.
 - Check out my [Instagram](https://www.instagram.com/juucode/) where I share my learnings in design and 3D modeling.
